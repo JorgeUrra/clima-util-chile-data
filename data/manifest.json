@@ -1,0 +1,13 @@
+{
+  "version": "bootstrap",
+  "source": "MeteoChile",
+  "publicBaseUrl": "https://jorgeurra.github.io/clima-util-chile-data/data",
+  "generatedAt": null,
+  "counts": {
+    "endpoints": 0,
+    "updated": 0,
+    "unchanged": 0,
+    "errors": 0
+  },
+  "endpoints": {}
+}
