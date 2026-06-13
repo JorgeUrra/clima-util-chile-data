@@ -2,10 +2,10 @@
 
 Repositorio publico para snapshots JSON generados por `meteochile-sync-worker`.
 
-URL esperada de GitHub Pages:
+URL publica usada por la app:
 
 ```text
-https://jorgeurra.github.io/clima-util-chile-data/data/manifest.json
+https://raw.githubusercontent.com/JorgeUrra/clima-util-chile-data/main/data/manifest.json
 ```
 
 El worker actualiza los archivos usando GitHub Contents API. No guardes tokens ni credenciales de MeteoChile en este repositorio.
